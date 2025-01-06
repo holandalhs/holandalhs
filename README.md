@@ -7,7 +7,7 @@
 🚀 Atualmente estou aprimorando minhas habilidades em Golang, Gin e APIs 
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30" height="30"/>
 
-💡 Vamos conversar sobre: Python, Django, Docker, PostgreSQL 💬
+💡 Vamos conversar sobre: Python, Django, Go, Docker, PostgreSQL 💬
 
 💻 Todos os meus projetos estão disponíveis no GitHub [holandalhs](https://github.com/holandalhs)
 
